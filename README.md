@@ -14,7 +14,7 @@
 
 ## 📂 数据来源
 
-* 数据集：OpenLandMap SoilSamples
+* 数据集：OpenLandMap SoilSamples https://github.com/openlandmap/SoilSamples.git
 * 数据类型：全球土壤剖面化学属性数据
 * 文件：`sol_chem.pnts_horizons.gpkg`
 
